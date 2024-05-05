@@ -1,0 +1,13 @@
+{
+  "name": "fayazali-advanced--atm",
+  "version": "1.0.0",
+  "description": "\"Revolutionized the traditional ATM experience with cutting-edge TypeScript programming and innovative new features. Check out my latest project on LinkedIn and GitHub to see banking software reimagined.\"",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
